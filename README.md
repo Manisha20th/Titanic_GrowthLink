@@ -1,8 +1,6 @@
 # Titanic_GrowthLink
 Data Science Project:
 
-# Titanic Survival Prediction
-
 This repository contains a machine learning model to predict whether a passenger survived the Titanic disaster. The model is built using the Logistic Regression algorithm and is trained on the Titanic dataset.
 
 ## Dataset
@@ -41,14 +39,12 @@ The Logistic Regression model was chosen for this classification task. The model
 ## Repository Structure
 
 - `titanic.csv`: The dataset used for training and testing the model.
-- `titanic_survival_prediction.py`: The Python script containing the code for data preprocessing, model training, and evaluation.
+- `Titanic.ipynb`: The Python script containing the code for data preprocessing, model training.
 - `README.md`: This file, providing an overview of the project.
 
 ## How to Run the Code
 
 1. Clone the repository.
 2. Ensure you have Python and the necessary libraries installed (`numpy`, `pandas`, `scikit-learn`).
-3. Run the `titanic_survival_prediction.py` script.
+3. Run the `Titanic.ipynb` script.
 
-```bash
-python titanic_survival_prediction.py
